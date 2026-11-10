@@ -36,11 +36,6 @@ gTTS
 - gTTS (Google Text-to-Speech)
 - HTML, JavaScript, Web Speech API
 
-## Run the App
-
-```bash
-streamlit run app.py
-```
 
 ## Purpose
 
