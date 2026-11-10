@@ -13,12 +13,12 @@ This app converts written text into spoken audio in multiple languages. It demon
 
 ## Repository Files
 
-| File | Description |
-|---|---|
-| `app.py` | Main Streamlit application |
-| `tts.html` | HTML and JavaScript TTS application |
-| `requirements.txt` | Required Python packages |
-| `README.md` | Project information and documentation |
+| File | Description |Required?|
+|---|---|---|
+| `app.py` | Main Streamlit application |YES|
+| `tts.html` | HTML and JavaScript TTS application (optional) |OPtional|
+| `requirements.txt` | Required Python packages |YES|
+| `README.md` | Project information and documentation |Optional|
 
 ## Requirements
 
