@@ -16,7 +16,7 @@ This app converts written text into spoken audio in multiple languages. It demon
 | File | Description |Required?|
 |---|---|---|
 | `app.py` | Main Streamlit application |YES|
-| `tts.html` | HTML and JavaScript TTS application (optional) |OPtional|
+| `tts.html` | HTML and JavaScript TTS application (optional) |Optional|
 | `requirements.txt` | Required Python packages |YES|
 | `README.md` | Project information and documentation |Optional|
 
