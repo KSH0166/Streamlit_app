@@ -15,7 +15,7 @@ st.set_page_config(
 # --------------------------------------------------
 # Title
 # --------------------------------------------------
-st.title("🔊 SH's world!")
+st.title("🤫 SH's world!")
 
 st.write(
     "Generate speech using Streamlit, "
